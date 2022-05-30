@@ -1,0 +1,169 @@
+id: IDE8D3B45
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:45:15.475640'
+last_modified: '2022-05-30T20:45:15.475652'
+parser: null
+source_metadata:
+  title: Fourteenth Dalai Lama Series
+  language: it
+  description: 'Texts by and about His Holiness the 14th Dalai Lama, Tenzin Gyatso
+    (bstan ''dzin rgya mtsho, b. 1935):'
+  volume:
+    f73A3:
+      title: Aspiration Prayer for the Flourishing of the Jonang Teachings
+      base_file: f73A3.txt
+      order: 1
+      parent: Aspiration Prayers
+    f8E29:
+      title: The Prayer of the Words of Truth
+      base_file: f8E29.txt
+      order: 2
+      parent: Aspiration Prayers
+    f4C50:
+      title: 'The Resounding Drum of Truth: A Prayer and Aspiration'
+      base_file: f4C50.txt
+      order: 3
+      parent: Aspiration Prayers
+    f4C84:
+      title: 'The Sage''s Harmonious Song of Truth: A Prayer for the Flourishing of
+        the Non-Sectarian Teachings of the Buddha'
+      base_file: f4C84.txt
+      order: 4
+      parent: Aspiration Prayers
+    fA1CC:
+      title: 'The Song of Devotion: Verses of Aspiration for the Fulfilment of the
+        Enlightened Vision of Khenchen Jigme Phuntsok, the Reincarnation of Terton
+        Lerab Lingpa'
+      base_file: fA1CC.txt
+      order: 5
+      parent: Aspiration Prayers
+    f449A:
+      title: A Yearning Song of Prayer to Invoke the Wisdom Mind of the Compassionate
+        Teacher Padmasambhava
+      base_file: f449A.txt
+      order: 6
+      parent: Guru Rinpoche Prayers
+    f39B4:
+      title: A Letter to the Fourteenth Dalai Lama, Supreme Victorious Guru of the
+        Beings of the Three Realms
+      base_file: f39B4.txt
+      order: 7
+      parent: Letters
+    f7C5A:
+      title: A Prayer to Kindle the Three Faiths, Addressed to the Seventeen Great
+        Paṇḍitas of Glorious Nālandā
+      base_file: f7C5A.txt
+      order: 8
+      parent: Lineage Prayers
+    f70DB:
+      title: 'The Swift Infusion of Blessings: A Lineage Prayer for the Single Mind
+        Kīla Heart-Practice, Part of the ''Neck Pouch Dagger’ (Purba Gulkhukma) Cycle'
+      base_file: f70DB.txt
+      order: 9
+      parent: Lineage Prayers
+    fA652:
+      title: 'Granting the Wish for Immortality: A Prayer for the Long Life of Dzarong
+        Trulshik Rinpoche, the Representative of Guru Rinpoche'
+      base_file: fA652.txt
+      order: 10
+      parent: Long Life Prayers
+    f8759:
+      title: Long Life Prayer for Kyabje Dzarong Trulshik Rinpoche
+      base_file: f8759.txt
+      order: 11
+      parent: Long Life Prayers
+    f6B63:
+      title: Prayer for the Long Life of Dzogchen Rinpoche
+      base_file: f6B63.txt
+      order: 12
+      parent: Long Life Prayers
+    fEE34:
+      title: Prayer for the Long Life of His Holiness the Dalai Lama
+      base_file: fEE34.txt
+      order: 13
+      parent: Long Life Prayers
+    fEB81:
+      title: Prayer for the Long Life of His Holiness the Dalai Lama
+      base_file: fEB81.txt
+      order: 14
+      parent: Long Life Prayers
+    fE377:
+      title: Prayer for the Long Life of His Holiness the Dalai Lama
+      base_file: fE377.txt
+      order: 15
+      parent: Long Life Prayers
+    fCC84:
+      title: Prayer for the Long Life of His Holiness the Fourteenth Dalai Lama
+      base_file: fCC84.txt
+      order: 16
+      parent: Long Life Prayers
+    f004F:
+      title: Prayer for the Long Life of His Holiness the Fourteenth Dalai Lama
+      base_file: f004F.txt
+      order: 17
+      parent: Long Life Prayers
+    f755D:
+      title: 'The Great Treasure of a Hundred Blessings: A Prayer for the Long Life
+        of Ḍākinī Muntso Rinpoche'
+      base_file: f755D.txt
+      order: 18
+      parent: Long Life Prayers
+    f8AD8:
+      title: 'The Magical Wish-Fulfilling Tree: A Prayer for the Long Life of His
+        Holiness the Dalai Lama'
+      base_file: f8AD8.txt
+      order: 19
+      parent: Long Life Prayers
+    f57BC:
+      title: 'The Melody of The Nectar of Immortality: A Prayer for the Long Life
+        of His Holiness the Fourteenth Dalai Lama, Supreme Victor and Omniscient One
+        by Jamyang Khyentse Chökyi Lodrö'
+      base_file: f57BC.txt
+      order: 20
+      parent: Long Life Prayers
+    f055D:
+      title: 'The Music of Immortality: A Prayer for the Long Life of His Holiness
+        the Dalai Lama'
+      base_file: f055D.txt
+      order: 21
+      parent: Long Life Prayers
+    f3AAA:
+      title: A Homage to His Holiness the Dalai Lama
+      base_file: f3AAA.txt
+      order: 22
+      parent: Praise
+    f7BC9:
+      title: Verses of Homage
+      base_file: f7BC9.txt
+      order: 23
+      parent: Praise
+    fF199:
+      title: Prayer for the Fulfilment of Aspirations
+      base_file: fF199.txt
+      order: 24
+      parent: Prayers
+    f3BAB:
+      title: Prayer to His Holiness the Dalai Lama
+      base_file: f3BAB.txt
+      order: 25
+      parent: Prayers
+    fB576:
+      title: Prayer for the Swift Rebirth of Kyabjé Trulshik Rinpoche
+      base_file: fB576.txt
+      order: 26
+      parent: Swift Rebirth Prayers
+    f15FD:
+      title: 'Bestowing the Splendour of All That is Desirable: Fire Offering for
+        the ''Neck-Pouch Dagger’ (Purba Gulkhukma) Cycle'
+      base_file: f15FD.txt
+      order: 27
+      parent: Vajrakīla
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
